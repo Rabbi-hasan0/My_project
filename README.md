@@ -1,5 +1,6 @@
-###Hi There👋..
-- Hi, I’m Rabbi Hasan.
+###Hi There👋..,
+
+- I’m Rabbi Hasan.
 
 - I’m interested in Softare Development.
 
