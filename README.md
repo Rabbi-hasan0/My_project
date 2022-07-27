@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rabbi-hasan0
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Softwar development
 - 📫 How to reach me imrabbihasan@gmail.com
 
 <!---
